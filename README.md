@@ -12,3 +12,5 @@ Descripción de negocio del proyecto: Ropa deportiva fabricada con materiales re
 # Descripción del código del proyecto:
 
 # Páginas (5):
+
+#se entrega el 6 de septiembre
